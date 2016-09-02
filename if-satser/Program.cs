@@ -10,6 +10,7 @@ namespace if_satser
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
